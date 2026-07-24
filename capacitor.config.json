@@ -1,0 +1,6 @@
+{
+  "appId": "com.mellalchem.app",
+  "appName": "Mellal Chem",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
