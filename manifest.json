@@ -1,0 +1,16 @@
+{
+  "name": "Mellal Chem - محاسبات تولید ملل",
+  "short_name": "Mellal Chem",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#0d1b2e",
+  "theme_color": "#0d1b2e",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
