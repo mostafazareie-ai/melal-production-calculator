@@ -1,4 +1,4 @@
-const CACHE = 'mellalchem-v12';
+const CACHE = 'mellalchem-v13';
 const FILES = ['./', './index.html', './manifest.json', './assets/icon.png', './assets/icon-192.png', './assets/icon-512.png', './assets/splash.jpg', './assets/dev-photo.jpg', './assets/B-NAZANIN.TTF', './assets/B_Titr_Bold_0.ttf'];
 
 self.addEventListener('install', e=>{
